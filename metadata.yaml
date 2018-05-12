@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31669'
     url: http://www.gutenberg.org/2009/agents/31669
 description: 1926 yearbook from Northrop Collegiate School, Minneapolis, Minnesota.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25926#The-1926-Tatler
 gutenberg_issued: '2008-06-28'
 gutenberg_type: Text
 identifiers:
