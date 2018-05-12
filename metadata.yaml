@@ -1,0 +1,25 @@
+_repo: The-1926-Tatler_25926
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Newhall, Margaret Louise
+    gutenberg_agent_id: '31669'
+    url: http://www.gutenberg.org/2009/agents/31669
+description: 1926 yearbook from Northrop Collegiate School, Minneapolis, Minnesota.
+gutenberg_issued: '2008-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25926'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Northrop Collegiate School (Minneapolis, Minn.) -- Students -- Yearbooks'
+- !lcc 'LD'
+- !lcsh 'Schools -- Minnesota -- Minneapolis -- Students -- Yearbooks'
+title: The 1926 Tatler
+url: http://www.gutenberg.org/ebooks/25926
